@@ -1,0 +1,135 @@
+html{
+    margin: 0;
+  }
+  
+  body{
+    margin: 0;
+      color: rgb(12, 2, 30);
+      background-color: #f107ba;
+      background: linear-gradient(45deg, #ed0dc0 6%,#e70862 28%, #f82505 97%);
+  }
+
+  nav{
+    padding: 10px;
+    margin-top: 5px;
+    font-size: 25px;
+    text-align: center;
+    
+  }
+  
+  .home{
+    margin: 12px;
+    padding: 5px;
+    border: solid 2px black;
+    background-color: rgb(46, 145, 226);
+    border-radius: 5px;
+  }
+  
+  .second{
+    margin: 12px;
+    border: solid 2px black;
+    padding: 5px;
+    background-color: rgb(30, 234, 166);
+    border-radius: 5px;
+  }
+
+  h1{
+    text-align: center;
+    font-size: 50px;
+    border: solid 2px black;
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(234, 7, 7);
+    background-color: #f107ba;
+    background: linear-gradient(45deg, #7d63f1 6%,#2c2d94 28%, #f805d0 97%);
+  }
+
+  .CM{
+    text-align: center;
+    font-size: 30px;
+    border: solid 2px black;
+    padding: 10px;
+    background-color: #ef7d0b;
+    background: linear-gradient(45deg, #ba571a 6%,#59d246 40%, #bada2a 95%);
+    color: rgb(40, 8, 250);
+  }
+
+  #height{
+    text-align: center;
+    font-size: 20px;
+    border: solid 2px black;
+    padding: 10px;
+    background-color: #ef7d0b;
+    background: linear-gradient(45deg, #5704d3 6%,#052bd4 40%, #2ada9a 95%);
+    color: rgb(227, 209, 209);
+  }
+
+  .WCM{
+    text-align: center;
+    font-size: 30px;
+    border: solid 2px black;
+    padding: 10px;
+    background-color: #ef7d0b;
+    background: linear-gradient(45deg, #ba571a 6%,#59d246 40%, #bada2a 95%);
+    color: rgb(40, 8, 250);
+  }
+
+  #weight{
+    text-align: center;
+    font-size: 20px;
+    border: solid 2px black;
+    padding: 10px;
+    background-color: #ef7d0b;
+    background: linear-gradient(45deg, #5704d3 6%,#052bd4 40%, #2ada9a 95%);
+    color: rgb(227, 209, 209);
+  }
+
+  button{
+    
+    margin-left: 90px;
+    margin-top: 45px;
+    flex-direction: column;
+    text-shadow: #052bd4;
+   font-size: 30px;
+    padding: 10px;
+    margin: 0 10px;
+    transform: skewX(-10deg);
+    cursor: pointer;
+    color: #11f109;
+    border:4px solid #360cf0; 
+    background-color: #1a0014;
+    background: linear-gradient(45deg, #1811f4 6%,#03296e 28%, #0337b0 97%); 
+  }
+
+  #weight-guide{
+       text-align: center;
+       font-size: 20px;
+
+  }
+
+  h3{
+    font-size: 25px;
+    border: solid 4px black;
+    padding: 10px;
+    color: rgb(24, 9, 230);
+    background-color: #1a0014;
+    background: linear-gradient(45deg, #048d3b 6%,#0be972 28%, #1dd51a 97%); 
+
+  }
+
+  .point{
+    border: solid 3px black;
+    padding: 10px;
+    color: rgb(3, 8, 60);
+    font-weight: 400;
+    background-color: #1a0014;
+    background: linear-gradient(45deg, #048d3b 6%,#0be972 28%, #1dd51a 97%); 
+
+  }
+
+  #results{
+       text-align: center;
+       color: rgb(2, 0, 12);
+       font-size: 40px;
+
+  }
